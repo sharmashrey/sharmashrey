@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmashrey)](https://github.com/sharmashrey/github-readme-stats)
+[![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmashrey&show_icons=true&theme=radical)](https://github.com/sharmashrey/github-readme-stats)
 
 - 🔭 I’m currently working on MediaOceans expansive codebase.
 
